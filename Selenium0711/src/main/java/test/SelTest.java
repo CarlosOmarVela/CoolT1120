@@ -19,6 +19,6 @@ public class SelTest {
 		driver.get("https://www.cooltesters.com/tienda-de-cursos/selenium-con-java");
 		
 		driver.close();
-		driver.quit();
+		//driver.quit();
 	}
 }
